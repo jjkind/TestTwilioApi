@@ -14,5 +14,10 @@ namespace TestTwilioApi.Controllers
 
             return View();
         }
+
+        public ActionResult GetData()
+        {
+            return View("Index");
+        }
     }
 }
