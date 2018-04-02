@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTwilioApi", "TestTwilioApi\TestTwilioApi.csproj", "{AD3E25D7-F650-4CFD-A056-1A74707222B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTwilioWebApp", "TestTwilioWebApp\TestTwilioWebApp.csproj", "{16D32448-D330-4B4B-B208-15FA7BF14A0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AD3E25D7-F650-4CFD-A056-1A74707222B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD3E25D7-F650-4CFD-A056-1A74707222B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD3E25D7-F650-4CFD-A056-1A74707222B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D32448-D330-4B4B-B208-15FA7BF14A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D32448-D330-4B4B-B208-15FA7BF14A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D32448-D330-4B4B-B208-15FA7BF14A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D32448-D330-4B4B-B208-15FA7BF14A0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
