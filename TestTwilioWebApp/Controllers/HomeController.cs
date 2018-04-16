@@ -26,5 +26,13 @@ namespace TestTwilioWebApp.Controllers
 
             return View();
         }
+
+        public ActionResult Update()
+        {
+            ViewBag.Message = "Your update page.";
+
+            return View();
+            
+        }
     }
 }
